@@ -1,16 +1,17 @@
+
 ## Hi there 👋
 
-<!--
-**Gherra/Gherra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Raman+Kumar;SFU+Computing+Science+Student;Data+Science+%7C+AI+Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎓 Computing Science student at **Simon Fraser University**  
+- 📊 Passionate about **Data Science, Machine Learning, and AI**  
+- 🤖 Currently taking a super cool course on **Natural Language Processing (Fall 2025)**  
+- ☁️ Exploring **AWS AI tools (Bedrock, SageMaker, etc.)** for future projects  
+
+---
+
+### Let’s Connect
+- 📧 Email: [raman_kumar@sfu,ca]  
