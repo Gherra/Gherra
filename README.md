@@ -6,4 +6,4 @@
 - 🚀 Currently learning **NLP + AWS AI tools**
 
 ### Let’s Connect
-- 📧 [Email](mailto:raman_kumar@sfu.ca) 
+- [Email](mailto:raman_kumar@sfu.ca) 
